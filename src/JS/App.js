@@ -3,7 +3,7 @@ import "./App/app.css"
 
 const App =() => {
     return(
-        <div>App</div>
+        <div>this is crazy workaround</div>
     )
 }
 
