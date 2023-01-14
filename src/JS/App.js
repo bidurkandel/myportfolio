@@ -1,9 +1,10 @@
 import React from "react";
-import "./App/app.css"
+import '/app.css'
+import About from "../Components/About Section/About";
 
-const App =() => {
-    return(
-        <div>this is crazy workaround</div>
+const APP = () => {
+    return (
+        <About/>>
     )
 }
 
